@@ -1,4 +1,4 @@
-[logo]: https://raw.githubusercontent.com/Geeksltd/Zebble.IconButton/master/Shared/NuGet/Icon.png "Zebble.IconButton"
+﻿[logo]: https://raw.githubusercontent.com/Geeksltd/Zebble.IconButton/master/icon.png "Zebble.IconButton"
 
 
 ## Zebble.IconButton
