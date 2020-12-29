@@ -7,7 +7,7 @@
     <RootNamespace>Zebble</RootNamespace>
     <PackageId>Zebble.IconButton</PackageId>
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
-    <Version>3.20.275.0</Version>
+    <Version>3.20.276.0</Version>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
     <LangVersion>default</LangVersion>
